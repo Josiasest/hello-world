@@ -2,4 +2,5 @@
 My first repository
 
 Hello everyone ! My name is Josias and I'm new to coding
-I love all things food and hoops
+
+love all things food and hoops
